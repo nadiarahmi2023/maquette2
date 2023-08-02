@@ -1,5 +1,5 @@
 :root{
-  --dark-color:#22a8f0;
+  --dark-color:#676568;
   --yellow-color:#ffc103;
 }
 body{
@@ -40,6 +40,7 @@ nav  .img-fluid {
   width:50px;
   height:60px;
 }
+
 /*end contact*/
 /*start information*/
 .information img{
