@@ -25,6 +25,12 @@ nav  .img-fluid {
 .navbar-expand-lg .navbar-nav .nav-link:focus{
   color:var(--yellow-color);
 }
+@media (max-width: 991px) { 
+  nav .navbar-toggler{
+    color:#ffc103;
+    border :1px solid #ffc103;
+  }
+}
 /*end navbar*/
 /*start portfolio*/
 .portfolio .box{
